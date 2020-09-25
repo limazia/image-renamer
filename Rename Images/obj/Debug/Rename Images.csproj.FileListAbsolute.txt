@@ -1,0 +1,28 @@
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\bin\Debug\Rename Images.exe.config
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\bin\Debug\Rename Images.exe
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\bin\Debug\Rename Images.pdb
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csprojAssemblyReference.cache
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Main.resources
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Properties.Resources.resources
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csproj.GenerateResource.cache
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.exe
+C:\Users\Lima\Desktop\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.pdb
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.exe.config
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.exe
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.pdb
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csprojAssemblyReference.cache
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Main.resources
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Properties.Resources.resources
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csproj.GenerateResource.cache
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Lima Renomeador.exe
+D:\#Lima\##Itens\##\Lima\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Lima Renomeador.pdb
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.exe.config
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.exe
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\bin\Debug\Lima Renomeador.pdb
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csprojAssemblyReference.cache
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Main.resources
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename_Images.Properties.Resources.resources
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csproj.GenerateResource.cache
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Rename Images.csproj.CoreCompileInputs.cache
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Lima Renomeador.exe
+D:\#Lima\Itens\#Programação\#Linguagens\C#\Rename Images\Rename Images\Rename Images\obj\Debug\Lima Renomeador.pdb
