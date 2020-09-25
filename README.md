@@ -1,6 +1,6 @@
 # Image Renamer
 
-Renomeeiarquivos (.png, .jpg, .jpeg e .mp4) com nomes em hash MD5
+Renomeei arquivos (.png, .jpg, .jpeg e .mp4) com nomes em hash MD5
 
 ## Exemplo
 
